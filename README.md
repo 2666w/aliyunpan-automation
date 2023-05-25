@@ -11,8 +11,8 @@
 
 **本脚本不能补签**
 
-只要配置好了的话，会在每天的7:30自动签到
-
+只要配置好了的话，会在每天的6:30自动签到
+推送支持server酱，telegram_bot，邮箱SMTP，pushplus。
 不存在漏签 除非你配置错误 错误的话，他也会向你绑定的github邮箱发送邮件
 
 # 设置方法 查看[wiki](https://github.com/fgr178707/aliyunpan-automation/wiki)
